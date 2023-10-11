@@ -1,0 +1,43 @@
+header{
+	background-image: url(.//img/banner.jpg);
+	height: 300px;
+	text-align: center;
+	background-position: center;
+	justify-content: center;
+	display: flex;
+	
+}
+
+h1{
+	background-color: rgba(0,0,0,0.5);
+	height: 70px;
+	color:white;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+i{
+	font-size: 40%
+}
+img{
+	max-width: 400px;
+}
+
+.kep{
+	max-width: 50vw;
+	margin: 10px;
+	padding: 10px;
+}
+footer{
+	height: 100px;
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h4{
+	text-decoration: underline;
+}
